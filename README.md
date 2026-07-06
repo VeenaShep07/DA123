@@ -4,4 +4,4 @@
 <br>
 [Python 1](https://github.com/VeenaShep07/DA123/blob/main/Python_coding.ipynb)
 <br>
-[Python 2](https://github.com/VeenaShep07/DA123/blob/main/Untitled24.ipynb) 
+[Python 2](https://raw.githubusercontent.com/VeenaShep07/DA123/refs/heads/main/Untitled24.ipynb) 

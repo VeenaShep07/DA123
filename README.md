@@ -4,3 +4,7 @@
 <br>
 
 [Python 1](https://raw.githubusercontent.com/VeenaShep07/DA123/refs/heads/main/Python_coding.ipynb) 
+
+<br>
+
+[Python 2](https://raw.githubusercontent.com/VeenaShep07/DA123/refs/heads/main/Python_coding.ipynb)
